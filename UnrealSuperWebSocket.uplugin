@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UnrealSuperWebSocket",
+	"Description": "The WebSocket plugin for Unreal Engine offers seamless, high-performance real-time communication for HTML5 platforms, enhancing interactive applications and multiplayer games.",
+	"Category": "Other",
+	"CreatedBy": "XiChen",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UnrealSuperWebSocket",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+
+			"Name": "UnrealSuperWebSocketEditSettings",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault"
+		}
+	]
+}
