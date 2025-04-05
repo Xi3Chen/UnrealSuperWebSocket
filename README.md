@@ -8,6 +8,7 @@
 3. 该插件由以下金主赞助
    
 [风中追风iiiiiiiiiiiiiie](https://space.bilibili.com/25082692)
+[79062312524_bili](https://space.bilibili.com/386463410)
 
 ## 安装
 ### 1. 复制插件到项目中
